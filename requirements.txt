@@ -1,0 +1,8 @@
+# 卡片渲染依赖。AstrBot 安装插件时会自动 pip install 本文件条目，
+# 但不会自动下载浏览器内核，需要手动执行：
+#   python -m playwright install chromium
+# 国内加速（实测 28 秒下完 197MB，官方源要 30 分钟）：
+#   PLAYWRIGHT_DOWNLOAD_HOST=https://cdn.npmmirror.com/binaries/playwright \
+#       python -m playwright install chromium
+# 内核缺失或渲染失败时，插件自动回退纯文本，功能不中断。
+playwright>=1.40.0

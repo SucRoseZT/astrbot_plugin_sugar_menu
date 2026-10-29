@@ -1,0 +1,6 @@
+name: astrbot_plugin_sugar_menu
+display_name: "蔗糖的菜单"
+desc: 把「我会干什么」整理成一张可定制的卡片：指令触发、AI 工具自主调用（问「你会干啥」时自动递卡）、加好友与进群自动欢迎。支持浅色/深色/粉紫三套主题，Playwright 渲染，渲染失败自动回退纯文本
+version: 1.0.0
+author: SucRoseZT
+repo: local
