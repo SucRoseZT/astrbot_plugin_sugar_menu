@@ -5,4 +5,7 @@ version: 1.0.0
 author: SucRoseZT
 repo: https://github.com/SucRoseZT/astrbot_plugin_sugar_menu
 tags:
-  - astrbot
+  - menu
+  - help
+  - welcome
+  - ui
